@@ -1,4 +1,3 @@
-============================================================
 INFORMACIJA ZA UČESNIKE ISTRAŽIVANJA I SAGLASNOST ZA UČEŠĆE
 ============================================================
 Naziv istraživanja:
@@ -43,7 +42,6 @@ Saglasnost
 
 Potvrđujem da sam pročitao/la informacije o istraživanju, da razumem svrhu i način sprovođenja istraživanja, da su moji odgovori anonimni i da dobrovoljno pristajem da učestvujem u ovom istraživanju.
 
-============================================================
 PARTICIPANT INFORMATION SHEET AND INFORMED CONSENT
 ============================================================
 Study Title:
@@ -88,4 +86,4 @@ For additional information regarding this study, please contact:
 Consent Statement
 
 I confirm that I have read and understood the information provided above, that my participation is voluntary, that my responses are anonymous, and that I voluntarily agree to participate in this research study.
-============================================================
+-
